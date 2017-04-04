@@ -13,4 +13,6 @@ Security Cheat sheet
 https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf
 https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
 
+DevOps
+http://enterprisedevops.org/
 
