@@ -16,3 +16,8 @@ https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Shee
 DevOps
 http://enterprisedevops.org/
 
+
+
+
+Singleview of customer
+http://www.cio.com/article/3188232/big-data/10-steps-for-creating-a-single-view-of-your-business.html
