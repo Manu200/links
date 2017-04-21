@@ -7,6 +7,8 @@ https://github.com/donnemartin/system-design-primer
 Design Pattersn for Human
 https://github.com/kamranahmedse/design-patterns-for-humans
 
+developer competency matrix
+http://sijinjoseph.com/programmer-competency-matrix/
 
 
 Security Cheat sheet
@@ -21,3 +23,7 @@ http://enterprisedevops.org/
 
 Singleview of customer
 http://www.cio.com/article/3188232/big-data/10-steps-for-creating-a-single-view-of-your-business.html
+
+
+
+https://www.slideshare.net/akirillov/on-being-a-professional-software-developer
