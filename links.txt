@@ -3,6 +3,8 @@ https://frontend.directory
 
 https://github.com/donnemartin/system-design-primer
 
+System Design
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
 Design Pattersn for Human
 https://github.com/kamranahmedse/design-patterns-for-humans
